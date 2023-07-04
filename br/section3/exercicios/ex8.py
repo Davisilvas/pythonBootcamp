@@ -1,5 +1,4 @@
 while True:
-    ...
     primeiroInput = input('Digite o primeiro número: ')
     operadorInput = input('Informe um operador [+, -, *, /]: ')
     segundoInput = input('Digite o segundo número: ')
